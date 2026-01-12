@@ -5,8 +5,8 @@ import React, { useState, useEffect, useRef } from 'react';
 // ============================================
 const CONFIG = {
   // Supabase Configuration (Get from: https://supabase.com/dashboard)
-  SUPABASE_URL: 'YOUR_SUPABASE_URL', // e.g., 'https://xxxxx.supabase.co'
-  SUPABASE_ANON_KEY: 'YOUR_SUPABASE_ANON_KEY', // e.g., 'eyJhbGc...'
+  SUPABASE_URL: 'https://supabase.com/dashboard/project/gshxdikyngzhmwpeysvj/editor/17483?schema=public', // e.g., 'https://xxxxx.supabase.co'
+  SUPABASE_ANON_KEY: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdzaHhkaWt5bmd6aG13cGV5c3ZqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjgyMjY2NTEsImV4cCI6MjA4MzgwMjY1MX0.VGd7PS7Bs154nNJZ0nvFRfwZ0bBv9Vw8IkHLFk9_Ojs', // e.g., 'eyJhbGc...'
   
   // CSV File Paths (relative to public folder or full URLs)
   CSV_PATHS: {
@@ -18,7 +18,7 @@ const CONFIG = {
   },
   
   // Enable/Disable features
-  USE_SUPABASE: false, // Set to true when Supabase is configured
+  USE_SUPABASE: true, // Set to true when Supabase is configured
   USE_LOCAL_STORAGE: true, // Fallback when Supabase is disabled
 };
 
