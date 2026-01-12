@@ -27,18 +27,18 @@
 33,Bot,အိုကေပါ။,Okay.
 34,User,ဒါဆိုသွားလိုက်ပါမယ်။,"Alright then, I’ll go now."
 35,Bot,ကောင်းပါတယ်။,Alright.
-36,Title,-,Light Flirting (Friendly & Respectful)
-37,Description,-,-----
-38,Bot,မင်္ဂလာပါ,Hello!
-39,User,မင်္ဂလာပါ,Hello!
-40,Bot,ဒီနေ့အရမ်းလှတယ်နော်။,You look very nice today.
-41,User,ဟုတ်လား။ ကျေးဇူးပါ။,Really? Thank you.
-42,Bot,အလုပ်ပြီးရင်ကော်ဖီသောက်ချင်လား။,Would you like to have coffee after work?
-43,User,ကောင်းမယ်ထင်တယ်။,That sounds nice.
-44,Bot,ဒါဆိုနောက်မှပြောမယ်နော်။,Then I’ll talk to you later.
-45,User,ဟုတ်ကဲ့။,Okay.
-46,,,
-47,,,
+36,End,---------,---------
+37,Title,-,Light Flirting (Friendly & Respectful)
+38,Description,-,-----
+39,Bot,မင်္ဂလာပါ,Hello!
+40,User,မင်္ဂလာပါ,Hello!
+41,Bot,ဒီနေ့အရမ်းလှတယ်နော်။,You look very nice today.
+42,User,ဟုတ်လား။ ကျေးဇူးပါ။,Really? Thank you.
+43,Bot,အလုပ်ပြီးရင်ကော်ဖီသောက်ချင်လား။,Would you like to have coffee after work?
+44,User,ကောင်းမယ်ထင်တယ်။,That sounds nice.
+45,Bot,ဒါဆိုနောက်မှပြောမယ်နော်။,Then I’ll talk to you later.
+46,User,ဟုတ်ကဲ့။,Okay.
+47,End,---------,---------
 48,,,
 49,,,
 50,,,
@@ -346,3 +346,4 @@
 352,,,
 353,,,
 354,,,
+355,,,
